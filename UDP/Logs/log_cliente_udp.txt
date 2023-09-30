@@ -1,0 +1,7 @@
+henriquemachado@henrique:~/Documentos/Trabalho 2/UDP$ python clienteUDP.py
+Log - Cliente TCP
+Alunos: Iago Mateus Ávila Fernandes, Lucas Alexsander Barbosa Cruz, Mariano Carlos Silva e Mateus Henrique Machado
+
+Digite a temperatura em Celsius: 50
+Resposta do servidor: Oi cliente, tudo bem? Obrigado pela mensagem. Segue a temperatura convertida em graus Fahrenheit: 122.0°F
+

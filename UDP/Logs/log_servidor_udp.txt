@@ -1,0 +1,9 @@
+henriquemachado@henrique:~/Documentos/Trabalho 2/UDP$ python servidorUDP.py
+Log - Servidor UDP
+Alunos: Iago Mateus Ávila Fernandes, Lucas Alexsander Barbosa Cruz, Mariano Carlos Silva e Mateus Henrique Machado
+
+Servidor está ouvindo em localhost:55000
+Temperatura em Celsius recebida do cliente: 50°C
+Temperatura convertida em Fahrenheit: 122.0°F
+
+
