@@ -1,0 +1,10 @@
+henriquemachado@henrique:~/Documentos/Trabalho 2/TCP$ python servidorTCP.py
+Log - Servidor TCP
+Alunos: Iago Mateus Ávila Fernandes, Lucas Alexsander Barbosa Cruz, Mariano Carlos Silva e Mateus Henrique Machado
+
+Servidor está ouvindo em localhost:55000
+Conexão recebida de ('127.0.0.1', 36890)
+Temperatura em Celsius recebida do cliente: 35°C
+Temperatura convertida em Fahrenheit: 95.0°F
+
+
